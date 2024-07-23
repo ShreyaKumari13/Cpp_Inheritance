@@ -1,0 +1,1 @@
+C++ inheritance solved programs
